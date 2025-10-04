@@ -54,10 +54,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Ahmedsalah554/Ahmedsalah554/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left">📫 Contact</p>
 
 ###
