@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🔭 Currently building: **ETL Pipelines with Airflow & PostgreSQL**  <br>- 🌱 Learning: **Big Data (Spark, Kafka), Cloud (AWS/GCP), Data Warehousing**  <br>- 💡 Passionate about: Data Engineering, Automation, and Scalable Architectures  <br>- 📫 Reach me at: salahabdelniem@gmail.com</p>
+<p align="left">- 🔭 Currently building: **ETL Pipelines with Airflow & PostgreSQL**  <br>- 🌱 Learning: **Big Data (Spark), Cloud (Azure/GCP), Data Warehousing**  <br>- 💡 Passionate about: Data Engineering, Automation, and Scalable Architectures  <br>- 📫 Reach me at: salahabdelniem@gmail.com</p>
 
 ###
 
