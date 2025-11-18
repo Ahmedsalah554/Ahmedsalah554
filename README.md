@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🔭 Currently building: **ETL Pipelines with Airflow & PostgreSQL**  <br>- 🌱 Learning: **Big Data (Spark), Cloud (Azure/GCP), Data Warehousing**  <br>- 💡 Passionate about: Data Engineering, Automation, and Scalable Architectures  <br>- 📫 Reach me at: salahabdelniem@gmail.com</p>
+<p align="left">- 🔭 Currently building: **ETL Pipelines with Airflow & PostgreSQL**  <br>- 🌱 Learning: **Big Data (Spark), Cloud (Azure/GCP), Data Warehousing, Data visualisations  **  <br>- 💡 Passionate about: Data Engineering, Automation, and Scalable Architectures  <br>- 📫 Reach me at: salahabdelniem@gmail.com</p>
 
 ###
 
@@ -41,7 +41,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="kubernetes logo"  />
 </div>
 
 ###
